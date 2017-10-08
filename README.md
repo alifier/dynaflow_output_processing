@@ -12,4 +12,4 @@ The TAPE88 file contains data for particular nodes from each single time step.
 
 This folder contains code to process the TAPE87 and TAPE89 output files from Dynaflow. 2-D representations of the material can be produced for discreet times steps and .gif files can be produced that show a movie-like representation of the elongation process. In addition, the conductivity of the material can be plotted for the discreet time steps available in the output files.
 
-The TAPE87 file contains data for all nodes for discrete time steps. The TAPE89 file contains data for elements for the same discreet times steps.
+The TAPE87 file contains data for all nodes for discrete time steps. The TAPE89 file contains data for elements for the same discreet time steps.
